@@ -1,2 +1,2 @@
 # Wordle
-A fun worlde-based game played on the console for all strings.
+A fun worlde-based game played on the console. Works for all strings.
