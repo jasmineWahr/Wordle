@@ -59,8 +59,6 @@ This project allows you to play the popular game Wordle on your console. It is n
 
 To get a local copy up and running follow these simple example steps.
 
-### Installation
-
 1. Open up your terminal and make a new directory
    ```sh
    mkdir Wordle
