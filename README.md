@@ -6,7 +6,7 @@
     
   </a>
 
-<h3 align="center">Wordle</h3>
+<h2 align="center">Wordle</h2>
 
   <p align="center">
     project_description
