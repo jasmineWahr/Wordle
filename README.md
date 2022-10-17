@@ -67,15 +67,15 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/jasmineWahr/Wordle.git
    ```
-3. Install NPM packages
+3. Compile the code
    ```sh
-   npm install
+   make
    ```
-4. Enter your API in `config.js`
+4. Run the game
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   .\main secret_word
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
