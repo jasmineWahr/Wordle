@@ -81,8 +81,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Jasmine Wahrhaftig - jasminew2002@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/jasmineWahr/Wordle](https://github.com/jasmineWahr/Wordle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
