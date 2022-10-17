@@ -48,7 +48,7 @@ This project allows you to play the popular game Wordle on your console. It is n
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![C++][C++]][C++-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
