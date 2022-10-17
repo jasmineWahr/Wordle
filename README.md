@@ -8,7 +8,7 @@
 <h1 align="center">Wordle</h1>
 
   <p align="center">
-    project_description
+    A fun, console-based Wordle game.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
