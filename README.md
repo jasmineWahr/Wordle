@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/github_jasmineWahr/Wordle">
     <img src="logo.png.dms" alt="Logo" width="80" height="80">
-    
   </a>
 
+##Wordle
 <h2 align="center">Wordle</h2>
 
   <p align="center">
