@@ -44,13 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+This project allows you to play the popular game Wordle on your console. It is not limited to 5-letter words, rather it can be played with any string. When running the game, the user must include one argument (the secret word). Afterwards the user has 6 attempts to get the right word. A correct letter will show up as green. A correct letter in the wrong place shows up as yellow. If the player guesses the word before running out of attempts, the player wins!
 
 ### Built With
 
