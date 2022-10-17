@@ -48,6 +48,10 @@ This project allows you to play the popular game Wordle on your console. It is n
 
 ### Built With
 
+<a href="https://github.com/github_jasmineWahr/Wordle">
+  <img src="c++.png" alt="Logo" width="80" height="80">
+</a>
+
 * [![C++][https://www.w3schools.com/cpp/]][C++-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
