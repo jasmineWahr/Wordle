@@ -5,8 +5,7 @@
     <img src="logo.png.dms" alt="Logo" width="80" height="80">
   </a>
 
-##Wordle
-<h3 align="center">Wordle</h3>
+<h1 align="center">Wordle</h1>
 
   <p align="center">
     project_description
