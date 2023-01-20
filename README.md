@@ -57,14 +57,18 @@ To get a local copy up and running follow these simple example steps.
 3. Clone the repo
    ```sh
    git clone https://github.com/jasmineWahr/Wordle.git
+   ``` 
+4. Navigate to the Wordle directory
+   ```sh
+   cd Wordle
    ```
-3. Compile the code
+5. Compile the code
    ```sh
    make
    ```
-4. Run the game
+6. Run the game
    ```js
-   .\main secret_word
+   ./main secret_word
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
